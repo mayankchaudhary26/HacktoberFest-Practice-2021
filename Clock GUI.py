@@ -13,3 +13,9 @@ label = Label(app_window, font=text_font, bg=background, fg=foreground, bd=borde
 label.grid(row=0, column=1)
 
 def digital_clock(): 
+   time_live = time.strftime("%H:%M:%S")
+   label.config(text=time_live) 
+   label.after(200, digital_clock)
+
+digital_clock()
+app_window.mainloop()
