@@ -41,7 +41,7 @@ def message(msg, color):
     mesg = font_style.render(msg, True, color)
     dis.blit(mesg, [dis_width / 6, dis_height / 3])
  
- 
+# Moving the Snake 
 def gameLoop():
     game_over = False
     game_close = False
