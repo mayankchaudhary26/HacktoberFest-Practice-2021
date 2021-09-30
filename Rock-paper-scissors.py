@@ -22,3 +22,17 @@ while True:
             print("You lose!", computer, "cut", player)
             cpu_score+=1
         else:
+            print("You win!", player, "covers", computer)
+            player_score+=1
+    elif player == "Scissors":
+        if computer == "Rock":
+            print("You lose...", computer, "smashes", player)
+            cpu_score+=1
+        else:
+            print("You win!", player, "cut", computer)
+            player_score+=1
+    elif player=='End':
+        print("Final Scores:")
+        print(f"CPU:{cpu_score}")
+        print(f"Plaer:{player_score}")
+        break
