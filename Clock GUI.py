@@ -9,3 +9,7 @@ text_font= ("Boulder", 68, 'bold')
 background = "#f2e750"
 foreground= "#363529"
 border_width = 25
+label = Label(app_window, font=text_font, bg=background, fg=foreground, bd=border_width) 
+label.grid(row=0, column=1)
+
+def digital_clock(): 
