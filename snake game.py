@@ -14,6 +14,7 @@ blue = (50, 153, 213)
 dis_width = 600
 dis_height = 400
  
+ 
 dis = pygame.display.set_mode((dis_width, dis_height))
 pygame.display.set_caption('Snake Game by Edureka')
  
@@ -24,6 +25,7 @@ snake_speed = 15
  
 font_style = pygame.font.SysFont("bahnschrift", 25)
 score_font = pygame.font.SysFont("comicsansms", 35)
+ 
  
  
 def Your_score(score):
@@ -65,7 +67,7 @@ def gameLoop():
             message("You Lost! Press C-Play Again or Q-Quit", red)
             Your_score(Length_of_snake - 1)
             pygame.display.update()
- 
+ # Game Over when Snake hits the boundaries
             for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN:
                     if event.key == pygame.K_q:
