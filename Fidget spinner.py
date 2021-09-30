@@ -25,3 +25,11 @@ def animate():
     ontimer(animate, 20)
 def flick():
     state['turn']+=10
+setup(420, 420, 370, 0)
+hideturtle()
+tracer(False)
+width(20)
+onkey(flick, 'space')
+listen()
+animate()
+done()
