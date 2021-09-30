@@ -8,3 +8,8 @@ def spinner():
     dot(120, 'red')
     back(100)
     right(120)
+    forward(100)
+    dot(120, 'green')
+    back(100)
+    right(120)
+    forward(100)
