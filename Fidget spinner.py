@@ -13,3 +13,15 @@ def spinner():
     back(100)
     right(120)
     forward(100)
+   dot(120, 'blue')
+    back(100)
+    right(120)
+    update()
+def animate():
+    if state['turn']>0:
+        state['turn']-=1
+
+    spinner()
+    ontimer(animate, 20)
+def flick():
+    state['turn']+=10
