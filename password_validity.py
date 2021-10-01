@@ -1,6 +1,6 @@
 # Python program to check validation of password
 import re
-password = "R@m@_f0rtu9e$"
+password = input("Enter your password: ")
 flag = 0
 while True:
 	if (len(password)<8):
