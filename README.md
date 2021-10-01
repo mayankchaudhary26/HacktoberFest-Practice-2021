@@ -1,5 +1,10 @@
 # Hacktoberfest-2021
 A platform for developers 👩‍💻  who wants to participate in Hacktoberfest 2021 👕
+
+#### Rules for contributing to this repository :
+<li>  Please do not edit README.md, this will not be accepted as a valid PR.
+<li>  You can submit a basic working project or a program.
+<li>  Provide your details(Name, College/School/Work)  while making a PR.
 <br>
 <br>
 
@@ -28,3 +33,5 @@ Every year in October we celebrate Hacktoberfest which is an open-source celebra
 
 ![image](https://user-images.githubusercontent.com/56837137/135638681-5149d8c3-6f58-4526-9472-eea387ed8aea.png)
 https://medium.com/dsc-msit/hacktoberfest-open-source-celebration-with-a-reward-78610043375a
+  
+  
