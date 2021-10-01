@@ -159,6 +159,9 @@ def binToDec(string):
     return str(value)
 
 
+print("ASSUMPTION - The final answer should be equal to or less than 16 bits")
+
+
 n1 = input("Enter multiplicand: ")
 n2 = input("Enter multiplier: ")
 
