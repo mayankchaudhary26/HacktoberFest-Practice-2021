@@ -2,6 +2,7 @@
 <br>
 A platform for developers 👩‍💻  who wants to participate in Hacktoberfest 2021 👕
 <br>
+<br>
 
 
 ![image](https://user-images.githubusercontent.com/56837137/135565301-0cc6eac1-a113-4f29-80c7-fab85cbefeff.png)
@@ -31,7 +32,8 @@ This Project is for  for developers 👩‍💻  who wants to participate in Hac
 
 - - - - - -  -
 # Thank you for your valuable contribution !😍
-=======
+
+
 #### Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
 Every year in October we celebrate Hacktoberfest which is an open-source celebration for our global community. This fest is open to everyone worldwide whether you're a student starting to learn code, developers, event host, or even a company of any size. Hacktoberfest is gaining popularity every year and in 2020 around the first 70,000 participants were eligible to get the limited-edition T-shirt and cool stickers. This fest is playing a vital role in generating awareness and helping to drive the growth of open-source contributions for an ever-growing community. People from all backgrounds and skill levels are encouraged to complete the challenge.
@@ -46,3 +48,4 @@ Every year in October we celebrate Hacktoberfest which is an open-source celebra
 
 ![image](https://user-images.githubusercontent.com/56837137/135638681-5149d8c3-6f58-4526-9472-eea387ed8aea.png)
 https://medium.com/dsc-msit/hacktoberfest-open-source-celebration-with-a-reward-78610043375a
+
