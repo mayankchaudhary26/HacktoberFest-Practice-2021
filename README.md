@@ -14,6 +14,7 @@ A platform for developers who wants to participate in Hacktoberfest 2021.
 
 <br>
 <br>
-From last year:
+
+### **From last year:
 ![My Post (2)](https://user-images.githubusercontent.com/56837137/135561898-d4b814af-5dd2-4453-9355-5321e41f12a0.jpg)
 https://medium.com/dsc-msit/hacktoberfest-open-source-celebration-with-a-reward-78610043375a
