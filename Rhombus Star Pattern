@@ -1,0 +1,12 @@
+# Python Program to Print Mirrored Rhombus Star Pattern
+ 
+rows = int(input("Enter the rows = "))
+
+print("Rhombus Star Pattern") 
+
+for i in range(0, rows):
+    for j in range(0, i):
+        print(' ', end = '')
+    for k in range(0, rows):
+        print('*', end = '')
+    print()
