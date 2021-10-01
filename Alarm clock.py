@@ -9,3 +9,8 @@ print("Setting up alarm..")
 while True:
     now = datetime.now()
     current_hour = now.strftime("%I")
+    current_minute = now.strftime("%M")
+    current_seconds = now.strftime("%S")
+    current_period = now.strftime("%p")
+    if(alarm_period==current_period):
+        if(alarm_hour==current_hour):
