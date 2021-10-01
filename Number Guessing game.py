@@ -16,3 +16,6 @@ while n!= guess: # means if n is not equal to the input guess
         # to again ask for the user input
         guess = int(input("Enter number again: "))
     # if guess gets equals to n terminate the while loop
+    else:
+        break
+print("you guessed it right!!")
