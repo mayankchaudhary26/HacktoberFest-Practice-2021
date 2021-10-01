@@ -4,7 +4,12 @@ A platform for developers 👩‍💻  who wants to participate in Hacktoberfest
 #### Rules for contributing to this repository :
 <li>  Please do not edit README.md, this will not be accepted as a valid PR.
 <li>  You can submit a basic working project or a program.
-<li>  Provide your details(Name, College/School/Work)  while making a PR.
+<li>  Provide your details (Name, College/School/Work) while making a PR.
+    
+      id (required): The name of the author, (College/School/Work) 
+      bio (optional): A short, meaningful intro about you.
+      social profiles (optional)
+  </ul>
 <br>
 <br>
 
