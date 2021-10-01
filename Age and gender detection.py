@@ -7,3 +7,8 @@ def getFaceBox(net, frame, conf_threshold=0.7):
     net.setInput(blob)
     detections = net.forward()
     bboxes = []
+    for i in range(detections.shape[2]):
+        confidence = detections[0, 0, i, 2]
+        if confidence > conf_threshold:
+            x1 = int(detections[0, 0, i, 3] * frameWidth)
+            y1 = int(detections[0, 0, i, 4] * frameHeight)
