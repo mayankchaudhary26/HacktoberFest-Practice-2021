@@ -13,9 +13,6 @@ A platform for developers 👩‍💻  who wants to participate in Hacktoberfest
 🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺  https://hacktoberfest.digitalocean.com   🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸
 
 <br>
-<br>
-
-<br>
 Holla developers ,👋 <br>
 As we all know that we have entered the month of october and now it's time to celebrate the feeling of open source contribution.
 This Project is for  for developers 👩‍💻  who wants to participate in Hacktoberfest 2021and wants to particpate in this event .
@@ -32,7 +29,6 @@ This Project is for  for developers 👩‍💻  who wants to participate in Hac
 
 - - - - - -  -
 # Thank you for your valuable contribution !😍
-
 
 #### Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
