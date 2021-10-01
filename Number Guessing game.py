@@ -11,3 +11,8 @@ while n!= guess: # means if n is not equal to the input guess
         # to again ask for input
         guess = int(input("Enter number again: "))
     # if guess is greater than n
+    elif guess > n:
+        print("Too high!")
+        # to again ask for the user input
+        guess = int(input("Enter number again: "))
+    # if guess gets equals to n terminate the while loop
