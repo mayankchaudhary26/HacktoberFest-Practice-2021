@@ -12,7 +12,10 @@ n = int(input("Enter the number of rounds: "))
 
 # Playing for n rounds 
 for i in range(1,n+1):
-    temp1 = input("Enter rock, paper or scissor: ")
+    temp1 = input("Enter rock, paper or scissor: ").strip().lower()
+    while temp1 not in outputs:
+        print("\nInvalid input")
+        temp1 = input("Enter rock, paper or scissor: ").strip().lower()
 
     # Generating a choice for the computer using random library
     temp2 = random.choice(outputs)
