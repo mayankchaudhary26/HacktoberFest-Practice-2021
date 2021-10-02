@@ -8,13 +8,18 @@ outputs = ['rock','paper','scissor']
 user = 0
 computer = 0
 name = input("Enter your name: ")
-n = int(input("Enter the number of rounds: "))
+
+while True:
+    try:
+        n = int(input("Enter the number of rounds: "))
+    except:
+        print("\nInvalid input. Please input a number.")
 
 # Playing for n rounds 
 for i in range(1,n+1):
     temp1 = input("Enter rock, paper or scissor: ").strip().lower()
     while temp1 not in outputs:
-        print("\nInvalid input")
+        print("\nInvalid input. Please select from the options.")
         temp1 = input("Enter rock, paper or scissor: ").strip().lower()
 
     # Generating a choice for the computer using random library
