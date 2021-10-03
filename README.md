@@ -19,7 +19,7 @@ A platform for developers 👩‍💻  who wants to participate in Hacktoberfest
 <br>
 
 ###### You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
-                        🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺   https://hacktoberfest.digitalocean.com   🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸
+🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺🡺   https://hacktoberfest.digitalocean.com   🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸🡸
 
 <br>
 <br>
