@@ -4,6 +4,7 @@ A platform for developers 👩‍💻  who wants to participate in Hacktoberfest
 #### Rules for contributing to this repository :
 <li>  Please do not edit README.md, this will not be accepted as a valid PR.
 <li>  You can submit a basic working project or a program.
+<li>  Use capital letter for the starting alphabet and appropriate language extension like: (Snake game.py) , (Calculator.cpp) , (Bubble sort.java)
 <li>  Provide your details (Name, College/School/Work) while making a PR.
     
       id (required): The name of the author, (College/School/Work) 
