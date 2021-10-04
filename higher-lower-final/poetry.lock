@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "replit"
+name = "replit"
+optional = false
+python-versions = "*"
+version = "1.0.5"
+
+[metadata]
+content-hash = "84b2723a0e35e01be0b9e317058491e17ce1bf96515b70a0b0dd30b1820f84a7"
+python-versions = "^3.7"
+
+[metadata.hashes]
+replit = ["0323725f7e0122a7ed2f123380974158c1a3c5f5c83972924864f633cc150ef7"]
