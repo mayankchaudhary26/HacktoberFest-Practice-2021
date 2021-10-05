@@ -70,7 +70,7 @@ def overlap_fun():
 
     composite = Image.new('RGBA', (WIDTH, HEIGHT), '#00000000')
     draw = ImageDraw.Draw(composite)
-    for x in range(COUNT):
+    for _ in range(COUNT):
         # Get random index, within full range:
         # randIdx = randrange(0, shapeFactoriesCount)
         # Use random int, generated from datetime (somehow):
@@ -141,7 +141,7 @@ def normal_fun():
 
     imgOpenList = []
     imgClosedList = []
-    for x in range(COUNT):
+    for _ in range(COUNT):
         # Get random index, within full range:
         # randIdx = randrange(0, shapeFactoriesCount)
         # Use random int, generated from datetime (somehow):
