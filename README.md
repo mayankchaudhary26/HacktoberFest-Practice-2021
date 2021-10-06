@@ -1,19 +1,18 @@
 # Hacktoberfest-2021
-A platform for developers 👩‍💻  who wants to participate in Hacktoberfest 2021 👕
+A platform for developers 👩‍💻  who wants to share their projects and programs.
 
-#### Rules for contributing to this repository :
-<li>  Please do not edit README.md, this will not be accepted as a valid PR.
-<li>  You can submit a basic working project or a program.
-<li>  Use capital letters for the starting alphabet and appropriate language extensions like: (Snake game.py), (Calculator.cpp), (Bubble sort.java)
-<li>  Provide your details (Name, College/School/Work) while making a PR.
-    
-      id (required): The name of the author, (College/School/Work) 
-      bio (optional): A short, meaningful intro about you.
-      social profiles (optional)
-  </ul>
-<br>
-<br>
+## Hacktoberfest has updated their rules and now this repository is no more a valid "Hacktoberfest-2021" repo. New rules :
 
+<li>Projects asking contributors to add their name or profile information to a list
+
+<li>Projects asking contributors to submit assorted data structures and algorithms (DSA)
+
+<li>Projects asking contributors to curate arbitrary lists of quotes, interview questions, etc.
+
+<br>
+    <br>
+    <br>
+  
 
 ![image](https://user-images.githubusercontent.com/56837137/135565301-0cc6eac1-a113-4f29-80c7-fab85cbefeff.png)
 <br>
@@ -40,4 +39,17 @@ Every year in October we celebrate Hacktoberfest which is an open-source celebra
 ![image](https://user-images.githubusercontent.com/56837137/135638681-5149d8c3-6f58-4526-9472-eea387ed8aea.png)
 https://medium.com/dsc-msit/hacktoberfest-open-source-celebration-with-a-reward-78610043375a
   
-  
+<br>
+    <br>
+ #### But you can still contribute your work here. Rules for contributing to this repository :
+<li>  Please do not edit README.md, this will not be accepted as a valid PR.
+<li>  You can submit a basic working project or a program.
+<li>  Use capital letters for the starting alphabet and appropriate language extensions like: (Snake game.py), (Calculator.cpp), (Bubble sort.java)
+<li>  Provide your details (Name, College/School/Work) while making a PR.
+    
+      id (required): The name of the author, (College/School/Work) 
+      bio (optional): A short, meaningful intro about you.
+      social profiles (optional)
+  </ul>
+<br>
+<br> 
