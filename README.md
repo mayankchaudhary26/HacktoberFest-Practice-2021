@@ -1,4 +1,4 @@
-# Hacktoberfest-2021
+# Fest-Practice-2021
 A platform for developers 👩‍💻  who wants to share their projects and programs.
 
 ## Hacktoberfest has updated their rules and now this repository is no more a valid "Hacktoberfest-2021" repo. New rules :
