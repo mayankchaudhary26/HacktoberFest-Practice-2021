@@ -1,5 +1,5 @@
 # Fest-Practice-2021
-> ### This project is excluded from Hacktoberfest 2021. Please use this as a testing repo/project.
+> ### This project is excluded from Hacktoberfest 2021. Please use this as a Testing repo/project.
 
 <br>
 A platform for developers 👩‍💻  who wants to share their projects and programs.
