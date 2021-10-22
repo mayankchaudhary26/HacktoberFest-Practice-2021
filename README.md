@@ -1,4 +1,7 @@
 # Fest-Practice-2021
+> ### This project is excluded from Hacktoberfest 2021. Please use this as a testing repo/project.
+
+<br>
 A platform for developers 👩‍💻  who wants to share their projects and programs.
 
 ## Hacktoberfest has updated their rules and now this repository is no more a valid "Hacktoberfest-2021" repo. New rules :
@@ -55,3 +58,9 @@ https://medium.com/dsc-msit/hacktoberfest-open-source-celebration-with-a-reward-
   </ul>
 <br>
 <br> 
+
+### Contributors List
+
+If you're not there, I am not there. Thank you for making this repository great! ❤️
+
+[![Contributors List](https://contrib.rocks/image?repo=mayankchaudhary26/Fest-Practice-2021)](https://github.com/mayankchaudhary26/Fest-Practice-2021/graphs/contributors)
