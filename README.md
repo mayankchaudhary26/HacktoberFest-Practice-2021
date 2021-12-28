@@ -61,6 +61,6 @@ https://medium.com/dsc-msit/hacktoberfest-open-source-celebration-with-a-reward-
 
 ### Contributors List
 
-If you're not there, I am not there. Thank you for making this repository great! ❤️
+Thank you for making this repository great! ❤️
 
 [![Contributors List](https://contrib.rocks/image?repo=mayankchaudhary26/HacktoberFest-Practice-2021)](https://github.com/mayankchaudhary26/HacktoberFest-Practice-2021/graphs/contributors)
